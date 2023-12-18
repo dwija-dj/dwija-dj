@@ -18,7 +18,7 @@ Beyond the algorithms and data pipelines, I believe the human element is what tr
 ##  GitHub Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.gif" alt="🎲" width="20" height="20">
 
 ![](https://github-readme-stats.vercel.app/api?username=dwija-dj&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-<![](https://github-readme-streak-stats.herokuapp.com/?user=dwija-dj&theme=radical&hide_border=true)<br/>>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=dwija-dj&theme=radical&hide_border=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dwija-dj&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Quote for the day
