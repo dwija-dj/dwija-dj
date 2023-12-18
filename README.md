@@ -1,7 +1,6 @@
 ##  Hello , I'm Dwijavanthi J <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25" height="25">
 
 
-
 ## About Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="20" height="20">
 
 Beyond the algorithms and data pipelines, I believe the human element is what truly unlocks the power of data. As a data enthusiast with a keen eye for detail and a passion for storytelling, I strive to bridge the gap between technical expertise and clear communication. Whether collaborating with teammates or engaging with non-technical audiences, I'm driven by the desire to make data accessible and its insights actionable for everyone.
