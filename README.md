@@ -1,4 +1,4 @@
-# 💫 About Me:
+:sparkles:# 💫 About Me:
 I'm a passionate data enthusiast on a journey to uncover meaningful insights from the world of information. 
 
 ## 🌐 Socials:
