@@ -1,4 +1,4 @@
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="32" height="32"><h1>About Me:</h1>
+### About Me: <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="32" height="32"> 
 
 I'm a passionate data enthusiast on a journey to uncover meaningful insights from the world of information. 
 
