@@ -4,7 +4,7 @@
 
 I'm a passionate data enthusiast on a journey to uncover meaningful insights from the world of information. 
 
-## 🌐 Socials:
+### Socials <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png" width="20px">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dwija._.j)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dwijavanthij)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%232EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dj5214)
