@@ -1,4 +1,5 @@
-## 💫 About Me:
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="32" height="32">## About Me:
+
 I'm a passionate data enthusiast on a journey to uncover meaningful insights from the world of information. 
 
 ## 🌐 Socials:
@@ -13,7 +14,7 @@ I'm a passionate data enthusiast on a journey to uncover meaningful insights fro
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dwija-dj&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dwija-dj&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote for the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
