@@ -1,4 +1,4 @@
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="20" height="20"> Hello , I'm Dwijavanthi J
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25" height="25"> Hello , I'm Dwijavanthi J
 
 ### About Me<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="20" height="20"> 
 
