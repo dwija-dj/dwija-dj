@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaI'm a passionate data enthusiast on a journey to uncover meaningful insights from the world of information. 
+I'm a passionate data enthusiast on a journey to uncover meaningful insights from the world of information. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dwija._.j)
