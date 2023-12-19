@@ -27,12 +27,10 @@ Beyond the algorithms and data pipelines, I believe the human element is what tr
 ## Top Contributed Repo <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20">
 ![](https://github-contributor-stats.vercel.app/api?username=dwija-dj&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=dwija-dj&icon=0&color=10)](https://visitcount.itsvg.in)
-
 ## Github Contribution <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="20" height="20">
 <picture>
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dwija-dj/dwija-dj/output/github-contribution-grid-snake-dark.svg">
 </picture>
+---
+
+[![](https://visitcount.itsvg.in/api?id=dwija-dj&icon=0&color=10)](https://visitcount.itsvg.in)
