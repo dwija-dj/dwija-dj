@@ -22,10 +22,10 @@ Beyond the algorithms and data pipelines, I believe the human element is what tr
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=dwija-dj&theme=radical&hide_border=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dwija-dj&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## Quote for the day <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32">
+## Quote for the day <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="20" height="20">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Top Contributed Repo <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+## Top Contributed Repo <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20">
 ![](https://github-contributor-stats.vercel.app/api?username=dwija-dj&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
