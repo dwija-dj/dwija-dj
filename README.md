@@ -34,4 +34,3 @@ Beyond the algorithms and data pipelines, I believe the human element is what tr
 
 
 
-![Snake animation](https://github.com/dwija-dj/dwija-dj/blob/output/github-contribution-grid-snake.svg)
