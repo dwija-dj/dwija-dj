@@ -31,6 +31,6 @@ Beyond the algorithms and data pipelines, I believe the human element is what tr
 <picture>
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dwija-dj/dwija-dj/output/github-contribution-grid-snake-dark.svg">
 </picture>
----
 
+---
 [![](https://visitcount.itsvg.in/api?id=dwija-dj&icon=0&color=10)](https://visitcount.itsvg.in)
